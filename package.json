@@ -1,6 +1,6 @@
 {
-  "name": "ui-kit",
-  "version": "0.0.1",
+  "name": "k-ui-2",
+  "version": "0.0.0",
   "description": "ui component's lib",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
